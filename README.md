@@ -34,6 +34,16 @@ Project created by <a href="https://github.com/Shadow-sir-v1">Shadow</a> to make
 <a href="https://github.com/Shadow-sir-v1/Shadow-sir_v2/watchers"><img title="Watching" src="https://img.shields.io/github/watchers/Shadow-sir-v1/Shadow-sir_v2?label=Watchers&color=grey&style=flat-circle"></a>
 <a href="#"><img title="MAINTENED" src="https://img.shields.io/badge/UNMAINTENED-YES-red.svg"</a>
 
+
+
+![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=Shadow-Sir-V1&bg_color=000000&color=4fff67&line=4fff67&point=ffffff&area=true&hide_border=true)
+  </div>
+ 
+  
+  [![Matrix SVG](https://raw.githubusercontent.com/rodrigograca31/rodrigograca31/master/matrix.svg)](https://chat.whatsapp.com/BRPbS6JHUoCE480MpLLM5z)
+                     
+### ⚠️ Warning! 
+
 ```
   
 Shadow-sir_v2 Userbot is Open Source software open to development. 
