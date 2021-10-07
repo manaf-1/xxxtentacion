@@ -21,7 +21,7 @@ Asena.addCommand({pattern: 'git', fromMe: false, desc: Lang.GL}, (async (message
     await message.sendMessage(Buffer(respoimage.data), MessageType.image, {quoted: message.data , mimetype: Mimetype.png, caption: `*Shadow-sir_v2*
  
 
-        *Github link        _https://github.com/Shadow-Sir-V1/Shadow-sir_V2*
+        *Github link        _https://github.com/manaf-1/xxxtentacion*
  
        *Bot Making Video    _https://youtu.be/fCKFDo9tiQ0_*
 
